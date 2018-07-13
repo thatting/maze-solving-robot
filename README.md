@@ -1,4 +1,4 @@
-# Project Maze Solving Robot
+# Project Maze Solving Robot (in progress)
 
 PROJECT LICENSE
 
